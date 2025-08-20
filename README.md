@@ -16,8 +16,8 @@ It allows users to search for any city and displays the **current weather** alon
 
 ## 🛠️ Tech Stack
 - **HTML5**  
-- **CSS3** (Responsive design)  
-- **JavaScript (ES6)**  
+- **CSS** (Responsive design)  
+- **JavaScript **  
 - **OpenWeather API** (for live data)  
 - **Vercel** (for deployment)
 
@@ -29,6 +29,7 @@ It allows users to search for any city and displays the **current weather** alon
 ![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/2.png)
 ![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/3.png)
 ![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/4.png)
+
 
 
 
