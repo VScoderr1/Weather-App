@@ -1,7 +1,7 @@
 # Weather App using OpenWeatherMap API
 A simple and responsive **Weather App** built with **HTML, CSS, and JavaScript**, powered by the [OpenWeather API](https://openweathermap.org/api).  
 It allows users to search for any city and displays the **current weather** along with a **6-day forecast**.
-Visit Website --> [WeatherAppUsingOpenWeatherMapAPI](https://weather-app-eight-lake-51.vercel.app/)
+- Visit Website --> [WeatherAppUsingOpenWeatherMapAPI](https://weather-app-eight-lake-51.vercel.app/)
 
 ---
 
@@ -29,6 +29,7 @@ Visit Website --> [WeatherAppUsingOpenWeatherMapAPI](https://weather-app-eight-l
 ![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/2.png)
 ![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/3.png)
 ![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/4.png)
+
 
 
 
