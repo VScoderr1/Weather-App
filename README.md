@@ -1,7 +1,24 @@
 # Weather App using OpenWeatherMap API
-A weather app made using OpenWeatherMap API in Vanilla JavaScript.
+A simple and responsive **Weather App** built with **HTML, CSS, and JavaScript**, powered by the [OpenWeather API](https://openweathermap.org/api).  
+It allows users to search for any city and displays the **current weather** along with a **6-day forecast**.
 
-The app tells the current temperature and some additional information like Air Quality Index, Real Feel, Humidity, Highest Temperature, Lowest Temperature, Wind Speed, Wind Direction, Visibility, Pressure, Sunrise and Sunset.
+---
+
+## 🚀 Features
+- 🔍 Search weather by city name.  
+- 📍 Shows current weather details (temperature, humidity, wind, conditions).  
+- 📆 Provides a **6-day forecast** with icons.  
+- 🎨 Clean and responsive UI.  
+- ⚡ Fast and deployed with **Vercel**.  
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5**  
+- **CSS3** (Responsive design)  
+- **JavaScript (ES6)**  
+- **OpenWeather API** (for live data)  
+- **Vercel** (for deployment)
 
 Visit Website --> [WeatherAppUsingOpenWeatherMapAPI](https://weather-app-eight-lake-51.vercel.app/)
 
@@ -11,6 +28,7 @@ Visit Website --> [WeatherAppUsingOpenWeatherMapAPI](https://weather-app-eight-l
 ![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/2.png)
 ![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/3.png)
 ![sample-screenshot](https://raw.githubusercontent.com/kshitizrohilla/weather-app-using-openweathermap-api/main/screenshots/4.png)
+
 
 
 
